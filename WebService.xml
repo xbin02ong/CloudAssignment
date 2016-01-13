@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<ErrorMsg xmlns="http://tempuri.org/WebServiceSchema.xsd">
+  Error!!! We are unable to connect to Service you have requested. 
+  Sorry for the inconvenience caused!
+</ErrorMsg>

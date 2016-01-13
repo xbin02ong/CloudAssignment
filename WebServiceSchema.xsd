@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="WebServiceSchema"
+    targetNamespace="http://tempuri.org/WebServiceSchema.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/WebServiceSchema.xsd"
+    xmlns:mstns="http://tempuri.org/WebServiceSchema.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+
+  <xs:element name="ErrorMsg" type="xs:string">
+  </xs:element>
+</xs:schema>
